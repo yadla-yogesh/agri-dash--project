@@ -1,22 +1,47 @@
-Agri-Dash: A Full-Stack Agricultural Platform
+<div align="center">
+<img src="https://placehold.co/600x300/8A2BE2/FFFFFF?text=Agri-Dash" alt="Agri-Dash Banner">
+<h1 align="center">Agri-Dash: A Full-Stack Agricultural Platform</h1>
+</div>
+
+<p align="center">
+<strong>Empowering Farmers, Connecting Communities</strong>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/>
+</p>
+
 Agri-Dash is a comprehensive, full-stack web application designed to empower farmers and connect them directly with consumers. The platform provides AI-driven tools for crop management, a direct-to-consumer marketplace, and a community hub, all managed through a role-based system with a dedicated admin panel.
 
 ✨ Core Features
-Role-Based Authentication: Secure login and registration system for three distinct user roles: Farmer, Consumer, and Admin.
+🛡️ Role-Based Authentication: Secure login for three distinct user roles: Farmer, Consumer, and Admin.
 
-AI Crop Doctor: Farmers can upload images of plant leaves to get an instant AI-powered diagnosis of diseases and receive organic treatment advice.
+🌿 AI Crop Doctor: Farmers can upload leaf images to get an instant AI-powered diagnosis of diseases and receive organic treatment advice.
 
-AI Agri-Bot: A multi-lingual chatbot, powered by the Gemini API, provides real-time answers to a wide range of farming-related questions.
+🤖 AI Agri-Bot: A multi-lingual chatbot, powered by the Gemini API, provides real-time answers to a wide range of farming questions.
 
-Direct-to-Consumer Marketplace: Farmers can list their produce for sale with details like price, quantity, and images. Consumers can browse products and add them to a fully functional shopping cart.
+🛒 Direct-to-Consumer Marketplace: A platform for farmers to list produce and for consumers to buy fresh, local goods with a fully functional shopping cart.
 
-Community Hub: A social feed where farmers and consumers can create posts (with text and images), interact with each other through likes, and delete their own posts.
+💬 Community Hub: A social feed where users can create posts (with text and images), interact via likes, and manage their own content.
 
-Government Schemes Hub: An informative section that details relevant government schemes to keep farmers updated on the latest agricultural policies and benefits.
+🇮🇳 Government Schemes Hub: An informative section detailing relevant government schemes to keep farmers updated.
 
-Full Admin Panel: An exclusive dashboard for administrators to manage the platform, including viewing platform statistics and having the authority to delete any user, product, or community post.
+⚙️ Full Admin Panel: An exclusive dashboard for administrators to manage the platform, view statistics, and moderate all users, products, and posts.
 
-Multi-Language Support: The entire application is translated to support English, Hindi, and Telugu.
+🌐 Multi-Language Support: The entire application is translated to support English, Hindi, and Telugu.
+
+👥 Our Team
+This project was brought to life by a dedicated team of developers.
+
+[Your Name] - Project Lead & Full-Stack Developer - GitHub Profile
+
+[Friend's Name] - Frontend Developer - GitHub Profile
+
+[Friend's Name] - Backend & AI Integration - GitHub Profile
 
 🛠️ Tech Stack
 Frontend: React, Vite, Tailwind CSS, Framer Motion, Recharts
