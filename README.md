@@ -37,9 +37,9 @@ Agri-Dash is a comprehensive, full-stack web application designed to empower far
 👥 Our Team
 This project was brought to life by a dedicated team of developers.
 
-[Gopi Sai Mahesh]-  [GitHub Profile](https://github.com/mahesh1110)
-
 [Sree Arjun] - [GitHub Profile](https://github.com/Arjun210105)
+
+[Gopi Sai Mahesh]-  [GitHub Profile](https://github.com/mahesh1110)
 
 [sushanthtarapatla] - [GitHub Profile](https://github.com/sushanthtarapatla)
 
