@@ -37,11 +37,16 @@ Agri-Dash is a comprehensive, full-stack web application designed to empower far
 👥 Our Team
 This project was brought to life by a dedicated team of developers.
 
-[Your Name] - Project Lead & Full-Stack Developer - GitHub Profile
+[Gopi Sai Mahesh]-  [GitHub Profile](https://github.com/mahesh1110)
 
-[Friend's Name] - Frontend Developer - GitHub Profile
+[Sree Arjun] - [GitHub Profile](https://github.com/Arjun210105)
 
-[Friend's Name] - Backend & AI Integration - GitHub Profile
+[sushanthtarapatla] - [GitHub Profile](https://github.com/sushanthtarapatla)
+
+[Yadla-Yogesh]- [GitHub Profile](https://github.com/yadla-yogesh)
+
+
+
 
 🛠️ Tech Stack
 Frontend: React, Vite, Tailwind CSS, Framer Motion, Recharts
@@ -67,7 +72,7 @@ Git
 Installation & Setup
 1. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/agri-dash--project.git
+git clone https://github.com/yadla-yogesh/agri-dash--project.git
 cd agri-hackathon
 
 2. Backend Setup
